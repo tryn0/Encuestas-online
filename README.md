@@ -20,4 +20,4 @@ This project is for DI class. The functionality is:
 
 <hr>
 
-tryn0 (c) 2020
+tryn0 &copy; 2020
