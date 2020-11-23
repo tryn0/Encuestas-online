@@ -17,3 +17,7 @@ This project is for DI class. The functionality is:
 ### Advices
 - Before use it edit URL location of the files encuestas.txt and respuestas.txt
 - encuestas.txt have a pattern for load the questions: poll-question,question,question,...
+
+<hr>
+
+tryn0 (c) 2020
