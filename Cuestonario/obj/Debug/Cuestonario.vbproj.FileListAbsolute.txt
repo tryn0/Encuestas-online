@@ -1,0 +1,12 @@
+D:\DAM\DI\ProyectosVS\Cuestonario\Cuestonario\bin\Debug\Cuestonario.exe.config
+D:\DAM\DI\ProyectosVS\Cuestonario\Cuestonario\bin\Debug\Cuestonario.exe
+D:\DAM\DI\ProyectosVS\Cuestonario\Cuestonario\bin\Debug\Cuestonario.pdb
+D:\DAM\DI\ProyectosVS\Cuestonario\Cuestonario\bin\Debug\Cuestonario.xml
+D:\DAM\DI\ProyectosVS\Cuestonario\Cuestonario\obj\Debug\Cuestonario.vbprojAssemblyReference.cache
+D:\DAM\DI\ProyectosVS\Cuestonario\Cuestonario\obj\Debug\Cuestonario.Form1.resources
+D:\DAM\DI\ProyectosVS\Cuestonario\Cuestonario\obj\Debug\Cuestonario.Resources.resources
+D:\DAM\DI\ProyectosVS\Cuestonario\Cuestonario\obj\Debug\Cuestonario.vbproj.GenerateResource.cache
+D:\DAM\DI\ProyectosVS\Cuestonario\Cuestonario\obj\Debug\Cuestonario.vbproj.CoreCompileInputs.cache
+D:\DAM\DI\ProyectosVS\Cuestonario\Cuestonario\obj\Debug\Cuestonario.exe
+D:\DAM\DI\ProyectosVS\Cuestonario\Cuestonario\obj\Debug\Cuestonario.xml
+D:\DAM\DI\ProyectosVS\Cuestonario\Cuestonario\obj\Debug\Cuestonario.pdb
